@@ -11,8 +11,8 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^7.4",
-        "symfony/dom-crawler": "^5.4",
-        "symfony/css-selector": "^5.4"
+        "symfony/dom-crawler": "^5.3",
+        "symfony/css-selector": "^5.3"
     },
     "autoload": {
         "files": [
